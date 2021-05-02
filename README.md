@@ -1,7 +1,7 @@
 # Green-power-project
 AI training model for the Data Science and Green Energy Technology Application Class.
 
-Gathering the data of the wind Turbines place in the middle of Taiwan to estimate the power wind turbines will generate, data start from March 2020 to July 2020.
+Gathering the data of the wind Turbines place in the middle of Taiwan to estimate how much power wind turbines will generate, data start from March 2020 to July 2020.
 using ngrok & heroku.
 
 requirements to run this projects.
