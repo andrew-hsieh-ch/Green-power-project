@@ -6,9 +6,8 @@ using ngrok & heroku.
 
 requirements to run this projects.
 
-absl-py==0.11.0
-
-astunparse==1.6.3
+absl-py==0.11.0 
+astunparse==1.6.3 
 cachetools==4.2.0
 certifi==2020.12.5
 chardet==4.0.0
