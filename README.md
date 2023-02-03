@@ -1,8 +1,15 @@
 # Green-power-project
 AI training model for the Data Science and Green Energy Technology Application Class.
 
-Gathering the data of the wind Turbines place in the middle of Taiwan to estimate how much power wind turbines will generate, data start from March 2020 to July 2020.
+Gathering the data of the wind Turbines place in the middle of Taiwan to estimate how much power wind turbines will generate, data start from March 2020 to July 2020. </br>
 using ngrok & heroku.
+
+1. Solar_data_202003_202007.csv is downloaded from the Wind Turbines power plants website
+2. using make_CSV.py to reshape the file into the format we desire, called solar_data_202003_202007_processed.csv
+3. save_model.py is the AI predition model, input processed CSV data and output aiot.h5
+4. greenpower.py combines AI training model and ouputting the result on Line chatbot
+// chatbot already been disabled, need to use ngrok & heroku to activate it
+
 
 requirements to run this projects.
 
